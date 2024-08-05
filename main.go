@@ -7,4 +7,5 @@ import (
 func main() {
 	variable1.Variables1()
 	variable1.VariablesWithoutExpressions()
+	variable1.SameTypeVariables()
 }

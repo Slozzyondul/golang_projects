@@ -19,7 +19,7 @@ func VariablesWithoutExpressions() {
 	fmt.Printf("Variable3 Value is %f\n", variable3)
 	fmt.Printf("Variable3 Type is %T\n", variable3)
 
-	//fmt.Printf("Variable3 Value is %yes\n", variable4)
+	//fmt.Printf("Variable4 Value is %yes\n", variable4)
 	fmt.Printf("Variable4 Type is %T\n", variable4)
 
 }
