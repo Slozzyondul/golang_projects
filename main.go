@@ -9,4 +9,7 @@ func main() {
 	variable1.VariablesWithoutExpressions()
 	variable1.SameTypeVariables()
 	variable1.MultipleVariables()
+	variable1.DefaultValuesVariables()
+	variable1.GroupedBlocks()
+	variable1.ShortDeclaration()
 }
