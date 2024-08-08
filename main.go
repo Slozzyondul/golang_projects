@@ -14,5 +14,6 @@ func main() {
 	variable1.ShortDeclaration()
 	variable1.MultipleVariablesDifferentTypes()
 	variable1.MultipleVariablesSameType()
-	variable1.LocalGlobalVariable()
+	variable1.LocalandGlobalVariables()
+
 }
