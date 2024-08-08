@@ -1,6 +1,7 @@
 package main
 
 import (
+	datatypes "golang_projects/data_types"
 	"golang_projects/variable1"
 )
 
@@ -15,5 +16,11 @@ func main() {
 	variable1.MultipleVariablesDifferentTypes()
 	variable1.MultipleVariablesSameType()
 	variable1.LocalandGlobalVariables()
+	datatypes.IntegerType()
+	datatypes.FloatType()
+	datatypes.ComplexNumbersType()
+	datatypes.ComplexCompileType()
+	datatypes.BooleanType()
+	datatypes.StringType()
 
 }
