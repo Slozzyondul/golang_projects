@@ -12,4 +12,5 @@ func main() {
 	variable1.DefaultValuesVariables()
 	variable1.GroupedBlocks()
 	variable1.ShortDeclaration()
+	variable1.MultipleVariablesDifferentTypes()
 }
