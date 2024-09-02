@@ -26,5 +26,6 @@ func main() {
 	operators.Addition_operator()
 	operators.Decrement_operator()
 	operators.Division_operator()
+	operators.Increment_operator()
 
 }
