@@ -25,5 +25,6 @@ func main() {
 	datatypes.StringType()
 	operators.Addition_operator()
 	operators.Decrement_operator()
+	operators.Division_operator()
 
 }
