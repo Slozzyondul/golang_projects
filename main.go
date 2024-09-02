@@ -2,6 +2,7 @@ package main
 
 import (
 	datatypes "golang_projects/data_types"
+	"golang_projects/operators"
 	"golang_projects/variable1"
 )
 
@@ -22,5 +23,6 @@ func main() {
 	datatypes.ComplexCompileType()
 	datatypes.BooleanType()
 	datatypes.StringType()
+	operators.Addition_operator()
 
 }

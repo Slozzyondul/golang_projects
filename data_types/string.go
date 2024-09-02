@@ -4,7 +4,7 @@ import "fmt"
 
 func StringType() {
 
-	//decalte string data type
+	//declare string data type
 	str := "Go Programming Language is very interesting to know for the future"
 
 	fmt.Printf("The Value of str : %s\n", str)
