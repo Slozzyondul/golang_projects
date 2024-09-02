@@ -24,5 +24,6 @@ func main() {
 	datatypes.BooleanType()
 	datatypes.StringType()
 	operators.Addition_operator()
+	operators.Decrement_operator()
 
 }
